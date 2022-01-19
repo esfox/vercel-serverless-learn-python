@@ -1,0 +1,3 @@
+estoult==0.7.9
+psycopg2==2.9.3
+python-dotenv==0.19.2
